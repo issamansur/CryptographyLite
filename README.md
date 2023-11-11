@@ -1,4 +1,4 @@
-# CryptographyLight
+# CryptographyLite
 Light library for practice with cryptography and learning
 
 This repository contains code examples, algorithms, and solutions related to cryptography and encryption.
