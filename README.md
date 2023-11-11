@@ -4,21 +4,17 @@ Light library for practice with cryptography and learning
 This repository contains code examples, algorithms, and solutions related to cryptography and encryption.
 
 ## Repository Structure
-
+```
 .
 ├── algorithms
-│   ├── caesar_cipher
+│   ├── <name of cihper>
 │   │   ├── README.md
-│   │   ├── python
-|   │   │   ├── caesar_ciphe_by_user_1
-│   │   │   |   ├── main.py
-│   │   │   |   ├── example.py
-│   │   │   |   └── README.md
-|   │   │   ├── caesar_ciphe_by_user_2
+│   │   ├── <lang of programming>
+|   │   │   ├── <your project>
 │   │   │   |   ├── README.md
-│   │   │   |   ├── caesar_cipher.py
-│   │   │   |   ├── my_example_1.py
-│   │   │   |   ├── my_example_2.py
+│   │   │   |   ├── main.py
+│   │   │   |   ├── example_1.py
+│   │   │   |   ├── example_1.py
 |   |   |   |   ...
 │   │   |   ...
 │   |   ...
@@ -29,6 +25,7 @@ This repository contains code examples, algorithms, and solutions related to cry
 ├── LICENSE
 ├── README.md
 └── CONTRIBUTING.md
+```
 
 ## How to Use
 
