@@ -1,0 +1,2 @@
+## CONTRIBUTING
+See [README file](/README.md)
