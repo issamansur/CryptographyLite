@@ -6,4 +6,5 @@ if(len(text) % 4 == 0 ):
     print("Decrypted text : {}".format(decrypt_64(encoded)))
 else:
     print("Length of input text must be a multiple of 4")
-    
+
+     
